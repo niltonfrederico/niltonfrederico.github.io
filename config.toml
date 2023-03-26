@@ -1,0 +1,4 @@
+baseURL = 'https://niltonfrederico.github.io/'
+languageCode = 'en-us'
+title = 'Just another tech guy blog'
+theme = 'Niello'
